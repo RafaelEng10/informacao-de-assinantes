@@ -13,6 +13,4 @@ Público-Alvo: Usuários de assinantes de outros planos semelhantes ou os que bu
 
 Funcionalidades CRUD esperadas: Incluir, editar e excluir usuários que assinam o plano, deixando atualizado os associados;
 
-Estrutura Inicial do Projeto: Não há registro;
-
-Link para o Repositório no GitHub:
+Estrutura Inicial do Projeto: 06/07/2025
